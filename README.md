@@ -1,1 +1,1 @@
-Build with AI
+Built using AI only
